@@ -7,7 +7,7 @@ Resource Pool for Software Development Project
   equipped with deep expertise in modern software development practices, cloud services, and a
   broad spectrum of programming languages and frameworks.
 ## 2. Resource Overview
-**Sethu**
+**Sethu** <br>
 Domains: Shipping, Telecommunication, Banking, Payment, Stock Market, Property Management
 Skills: Core Java, JSP, Servlet, EJB, Restful Web Services, Struts, Spring Boot, Spring WebFlux,
 MicroServices, SQL, NoSQL (MongoDB), PostgreSQL, AWS Cloud Services
